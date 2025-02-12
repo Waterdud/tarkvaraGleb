@@ -50,11 +50,6 @@ button:hover {
     background: linear-gradient(45deg, #ff6666, #ff9966);
 }
 
-#personCard {
-    margin-top: 30px;
-    text-align: center;
-}
-
 #personCard img {
     width: 300px;
     height: auto;
@@ -65,3 +60,16 @@ button:hover {
 .hidden {
     display: none;
 }
+
+#personCard {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+}
+
+#personCard.hidden {
+    visibility: hidden;
+    opacity: 0;
+}
+
+

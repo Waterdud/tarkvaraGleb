@@ -25,6 +25,7 @@ body {
     max-width: 1200px;
     width: 100%;
     text-align: center;
+    background-image: url("heart-svgrepo-com.svg");
 }
 
 button {

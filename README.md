@@ -1,6 +1,6 @@
 # Püha Valentini päev
 
-1. css-is muuta pealkirja kirjastiili ja suurust
+1. css-is muuta pealkirja kirjastiili ja suurust [TEHTUD]
 2. lisada üheksa nuppu
 3. lisada iga nupu alla pilt ja tekst
 4. Lisage mõned animatsioonid js-sse kaartide avamiseks

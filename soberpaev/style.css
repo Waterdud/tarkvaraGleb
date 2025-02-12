@@ -1,9 +1,13 @@
+
+
 /* style.css */
 body {
-    font-family: Arial, sans-serif;
     background-color: #ffe6e6;
     text-align: center;
     padding: 20px;
+    font-family: "Tomorrow", serif;
+    font-weight: 900;
+    font-style: italic;
 }
 
 .valentine-title {

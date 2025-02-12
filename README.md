@@ -1,5 +1,5 @@
-#Püha Valentini päev
+# Püha Valentini päev
 
-Muuda css globaalselt 
-Lisage 9 kaarti, nagu näites
-Lisage mõned animatsioonid js-sse kaartide avamiseks
+1. Muuda css globaalselt
+2. Lisage 9 kaarti, nagu näites
+3. Lisage mõned animatsioonid js-sse kaartide avamiseks

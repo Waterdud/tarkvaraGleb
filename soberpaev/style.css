@@ -8,6 +8,7 @@ body {
     font-family: "Tomorrow", serif;
     font-weight: 900;
     font-style: italic;
+    background-image: url("heart-svgrepo-com.svg");
 }
 
 .valentine-title {

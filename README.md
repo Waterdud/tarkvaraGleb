@@ -6,7 +6,7 @@
 4. Lisage mõned animatsioonid js-sse kaartide avamiseks
 5. css-is lisada kena taust, muuta nuppude välimust (et see näeks välja nagu postkaart)
 6. pane mõned südamed taustaks.
-   #Lisaülesanded
+   # Lisaülesanded
 
 7.Lisa lehe jalusesse "Gleb Sotsjov | TARpv23"
 8.css-is tee jalus nii, et see näeks normaalne välja
